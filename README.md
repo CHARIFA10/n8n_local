@@ -1,1 +1,1 @@
-# n8n_local
+# n8n locally with weaviate
